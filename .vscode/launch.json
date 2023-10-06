@@ -6,7 +6,7 @@
             "request": "launch",
             "type": "al",
             "environmentType": "OnPrem",
-            "server": "https://RU-V22r5SSLL/",
+            "server": "http://bcserver",
             "serverInstance": "BC",
             "authentication": "UserPassword",
             "startupObjectId": 22,
